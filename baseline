@@ -1,3 +1,5 @@
 sudo apt-get update && sudo apt-get upgrade
-apt-get install cron-apt
+apt-get install cron-apt logwatch vim
 dpkg-reconfigure exim4-config
+  smtprelay1.telia.com
+
