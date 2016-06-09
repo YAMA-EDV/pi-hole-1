@@ -1,6 +1,6 @@
 sudo apt-get update && sudo apt-get upgrade
-apt-get install cron-apt logwatch vim fail2ban
-dpkg-reconfigure exim4-config
+sudo apt-get install cron-apt logwatch vim fail2ban
+sudo dpkg-reconfigure exim4-config
   smtprelay1.telia.com
   /etc/aliases
 
