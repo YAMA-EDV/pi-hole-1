@@ -3,4 +3,5 @@ sudo apt-get install cron-apt logwatch vim fail2ban arpwatch
 sudo dpkg-reconfigure exim4-config
   smtprelay1.telia.com
   /etc/aliases
-
+/etc/fail2ban/jail.conf
+port     = ssh,nntp
