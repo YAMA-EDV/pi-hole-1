@@ -1,5 +1,5 @@
 sudo apt-get update && sudo apt-get upgrade
-sudo apt-get install cron-apt logwatch vim fail2ban arpwatch
+sudo apt-get install cron-apt logwatch vim fail2ban arpwatch squid3
 sudo dpkg-reconfigure exim4-config
   smtprelay1.telia.com
   /etc/aliases
